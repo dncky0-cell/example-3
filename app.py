@@ -1,3 +1,8 @@
+# this was made by smartiefellow (on discord and roblox)
+# this example is similar to example 2, a ai integration python script, this however is different since it is currently being hosted live at chatbuddy.school!
+# html code isnt mentioned since it isnt related with python code
+# the bot should be able to help you with school work, and should not tell you the answer at any point!
+
 import os
 import requests
 from flask import Flask, request, jsonify
